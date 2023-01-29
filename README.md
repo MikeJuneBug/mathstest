@@ -1,6 +1,6 @@
 # Python maths test game
 
-Initial draft of a maths test game in Python
+Initial sketch draft of a maths test game in Python
 
 Generates 6 random maths questions using numbers 1 to 100
 
