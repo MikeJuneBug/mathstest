@@ -1,3 +1,3 @@
 # mathstest
 
-# Initial draft of a maths test game in Python
+Initial draft of a maths test game in Python
